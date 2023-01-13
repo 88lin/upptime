@@ -4,18 +4,19 @@
     "url": "https://alist-replit.88lin.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/alist-replit.88lin.repl.co.ico",
     "slug": "alist",
-    "status": "up",
-    "uptime": "98.56%",
+    "status": "down",
+    "uptime": "98.72%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.56%",
-    "uptimeMonth": "98.56%",
-    "uptimeYear": "98.56%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "98.72%",
+    "uptimeYear": "98.72%",
     "time": 546,
     "timeDay": 724,
     "timeWeek": 546,
     "timeMonth": 546,
     "timeYear": 546,
     "dailyMinutesDown": {
+      "2023-01-13": 0,
       "2023-01-11": 35
     }
   }
