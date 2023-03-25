@@ -4,7 +4,7 @@
     "url": "https://alist-replit.88lin.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/alist-replit.88lin.repl.co.ico",
     "slug": "alist",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.71%",
@@ -16,6 +16,7 @@
     "timeMonth": 1555,
     "timeYear": 3294,
     "dailyMinutesDown": {
+      "2023-03-25": 0,
       "2023-03-23": 65,
       "2023-03-20": 65,
       "2023-03-07": 33,
